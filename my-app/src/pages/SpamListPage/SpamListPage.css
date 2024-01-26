@@ -1,0 +1,33 @@
+.spam_list_page {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+h1 {
+  font-size: 20px;
+}
+
+.acc_name {
+  max-width: 300px;
+  min-width: 150px;
+}
+
+.spam_list_header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.list {
+  background: #ffffff;
+}
+
+.list_item {
+  display: flex;
+  align-items: center;
+}
+
+.list_item div {
+  padding: 5px;
+}
